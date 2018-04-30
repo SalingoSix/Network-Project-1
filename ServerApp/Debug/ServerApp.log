@@ -1,0 +1,11 @@
+﻿  ServerMain.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\network programming\assignment 1\network-programming-assignment-1\assignment 1\serverapp\servermain.cpp(86): warning C4018: '<': signed/unsigned mismatch
+c:\users\alexm\documents\game development - advanced programming 2017\network programming\assignment 1\network-programming-assignment-1\assignment 1\serverapp\servermain.cpp(95): warning C4018: '<': signed/unsigned mismatch
+c:\users\alexm\documents\game development - advanced programming 2017\network programming\assignment 1\network-programming-assignment-1\assignment 1\serverapp\servermain.cpp(101): warning C4018: '<': signed/unsigned mismatch
+c:\users\alexm\documents\game development - advanced programming 2017\network programming\assignment 1\network-programming-assignment-1\assignment 1\serverapp\servermain.cpp(119): warning C4018: '<': signed/unsigned mismatch
+c:\users\alexm\documents\game development - advanced programming 2017\network programming\assignment 1\network-programming-assignment-1\assignment 1\serverapp\servermain.cpp(135): warning C4018: '<': signed/unsigned mismatch
+c:\users\alexm\documents\game development - advanced programming 2017\network programming\assignment 1\network-programming-assignment-1\assignment 1\serverapp\servermain.cpp(250): warning C4018: '<': signed/unsigned mismatch
+c:\users\alexm\documents\game development - advanced programming 2017\network programming\assignment 1\network-programming-assignment-1\assignment 1\serverapp\servermain.cpp(306): warning C4018: '<': signed/unsigned mismatch
+c:\users\alexm\documents\game development - advanced programming 2017\network programming\assignment 1\network-programming-assignment-1\assignment 1\serverapp\servermain.cpp(160): warning C4101: 'iSendResult': unreferenced local variable
+  ServerApp.vcxproj -> C:\Users\alexm\Documents\Game Development - Advanced Programming 2017\Network Programming\Assignment 1\network-programming-assignment-1\Assignment 1\Debug\ServerApp.exe
+  ServerApp.vcxproj -> C:\Users\alexm\Documents\Game Development - Advanced Programming 2017\Network Programming\Assignment 1\network-programming-assignment-1\Assignment 1\Debug\ServerApp.pdb (Partial PDB)

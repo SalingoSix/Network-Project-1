@@ -1,0 +1,7 @@
+﻿  ClientMain.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\network programming\assignment 1\network-programming-assignment-1\assignment 1\clientapp\clientmain.cpp(152): warning C4018: '<': signed/unsigned mismatch
+c:\users\alexm\documents\game development - advanced programming 2017\network programming\assignment 1\network-programming-assignment-1\assignment 1\clientapp\clientmain.cpp(229): warning C4018: '<': signed/unsigned mismatch
+c:\users\alexm\documents\game development - advanced programming 2017\network programming\assignment 1\network-programming-assignment-1\assignment 1\clientapp\clientmain.cpp(268): warning C4018: '<': signed/unsigned mismatch
+c:\users\alexm\documents\game development - advanced programming 2017\network programming\assignment 1\network-programming-assignment-1\assignment 1\clientapp\clientmain.cpp(366): warning C4018: '<': signed/unsigned mismatch
+  ClientApp.vcxproj -> C:\Users\alexm\Documents\Game Development - Advanced Programming 2017\Network Programming\Assignment 1\network-programming-assignment-1\Assignment 1\Debug\ClientApp.exe
+  ClientApp.vcxproj -> C:\Users\alexm\Documents\Game Development - Advanced Programming 2017\Network Programming\Assignment 1\network-programming-assignment-1\Assignment 1\Debug\ClientApp.pdb (Partial PDB)

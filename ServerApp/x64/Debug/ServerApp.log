@@ -1,0 +1,9 @@
+﻿  ServerMain.cpp
+  buffer.cpp
+f:\fanshawe\term 1\network programming\network-programming-assignment-1\assignment 1\serverapp\buffer.cpp(78): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+f:\fanshawe\term 1\network programming\network-programming-assignment-1\assignment 1\serverapp\buffer.cpp(93): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+f:\fanshawe\term 1\network programming\network-programming-assignment-1\assignment 1\serverapp\buffer.cpp(95): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+f:\fanshawe\term 1\network programming\network-programming-assignment-1\assignment 1\serverapp\buffer.cpp(96): warning C4018: '>': signed/unsigned mismatch
+  Generating Code...
+  ServerApp.vcxproj -> F:\Fanshawe\Term 1\Network Programming\network-programming-assignment-1\Assignment 1\x64\Debug\ServerApp.exe
+  ServerApp.vcxproj -> F:\Fanshawe\Term 1\Network Programming\network-programming-assignment-1\Assignment 1\x64\Debug\ServerApp.pdb (Partial PDB)
